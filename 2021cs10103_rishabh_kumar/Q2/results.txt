@@ -1,0 +1,22 @@
+[1.04659273]
+ [1.95858245]]
+Error with test data:  1.1895265899818308
+Error with sample data:  1.029930371734856
+difference at convergence 8.435094844827518e-10
+batch size and k:  (100, 1000, 1e-09) iterations:  330660 loss:  1.0696994197431606 theta:  [[2.9996814 ]
+ [0.99886581]
+ [2.0004612 ]]
+Error with test data:  0.9830335727110631
+Error with sample data:  1.0002458139901582
+difference at convergence 2.1802648575430794e-10
+batch size and k:  (10000, 100, 1e-09) iterations:  74601 loss:  1.0154489553155848 theta:  [[2.99927222]
+ [0.99946337]
+ [1.99896396]]
+Error with test data:  0.9831954734041658
+Error with sample data:  1.000236841390263
+difference at convergence 1.0000542616239727e-09
+batch size and k:  (1000000, 1, 1e-09) iterations:  46503 loss:  1.0002405233458713 theta:  [[2.99429252]
+ [1.00053795]
+ [1.99862331]]
+Error with test data:  0.9832546677127068
+Error with sample data:  1.0002405233458718
